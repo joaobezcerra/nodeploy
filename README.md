@@ -1,2 +1,2 @@
-# zero-ao-deploy
-Repositório do Workshop do 0 ao deploy com Node
+# Zero ao deploy
+Repositório do zero ao deploy com Node.js
